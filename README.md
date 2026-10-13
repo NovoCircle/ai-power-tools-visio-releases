@@ -8,9 +8,9 @@ Public release artifacts for [AI Power Tools for Microsoft Visio](https://store.
 
 **VS Code:** Download `ai-power-tools-visio.vsix` from the [latest release](../../releases/latest) and install via `Extensions: Install from VSIX...`.
 
-## Licensing
+## License
 
-A subscription is required. Purchase at [store.novocircle.com/visio](https://store.novocircle.com/visio/). After purchase you will receive a license key by email — enter it in the extension settings to activate.
+AI Power Tools for Microsoft Visio is free to use under NovoCircle's end user license agreement. There is no license key, activation, registration, trial or subscription. The agreement is in [LICENSE](LICENSE) in this repository, inside each download as `LICENSE`, and at https://novocircle.com/ai-power-tools/visio/license/. Open-source components bundled in the software are listed in `THIRD-PARTY-NOTICES.txt` inside each download and attached to each release.
 
 ## Support
 
